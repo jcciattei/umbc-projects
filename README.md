@@ -5,7 +5,7 @@ A sample of work completed for my Computer Science undergraduate degree
 Performs a caesar cypher shift on a word provided by the user.
 Implemented in assembly on a Linux system.
 
-## heap_pqueue_cpp
+## heap_pqueue_cpp: <https://github.com/jcciattei/umbc-projects/tree/main/heap_pqueue_cpp>
 Creates a priority queue for a patient intake system.
 Implemented in C++ on a Linux system. 
 
